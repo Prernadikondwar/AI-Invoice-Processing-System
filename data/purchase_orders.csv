@@ -1,0 +1,21 @@
+po_number,vendor_id,po_date,valid_until,description,currency,po_amount_excl_tax,gst_rate_pct,po_total_incl_tax,amount_invoiced_to_date,remaining_balance,tolerance_pct,status,department,cost_center,approved_by
+PO-2026-1001,V001,7/1/2026,12/31/2026,Office stationery and printer consumables,INR,100000,18,118000,0,118000,2,OPEN,Admin,CC-ADM-01,R. Deshmukh
+PO-2026-1002,V001,8/10/2026,12/31/2026,Ergonomic chairs - 20 units,INR,150000,18,177000,177000,0,2,FULLY_INVOICED,Admin,CC-ADM-01,R. Deshmukh
+PO-2026-1003,V002,7/15/2026,1/15/2027,Annual software maintenance contract,INR,500000,18,590000,295000,295000,1,PARTIALLY_INVOICED,IT,CC-IT-02,S. Kulkarni
+PO-2026-1004,V002,9/1/2026,12/31/2026,Laptop repair and AMC services,INR,80000,18,94400,0,94400,2,OPEN,IT,CC-IT-02,S. Kulkarni
+PO-2026-1005,V003,9/5/2026,11/30/2026,Freight - Mumbai to Pune dispatches (Sept-Oct),INR,60000,5,63000,21000,42000,3,PARTIALLY_INVOICED,Operations,CC-OPS-03,A. Patil
+PO-2026-1006,V003,6/1/2026,8/31/2026,Freight - Q2 dispatches,INR,45000,5,47250,47250,0,3,CLOSED,Operations,CC-OPS-03,A. Patil
+PO-2026-1007,V004,4/1/2026,9/30/2026,Monthly housekeeping - Apr to Sep,INR,120000,18,141600,141600,0,2,CLOSED,Admin,CC-ADM-01,R. Deshmukh
+PO-2026-1008,V004,1/10/2026,3/31/2027,Monthly housekeeping - Oct to Mar,INR,126000,18,148680,24780,123900,2,PARTIALLY_INVOICED,Admin,CC-ADM-01,R. Deshmukh
+PO-2026-1009,V005,8/20/2026,12/20/2026,Desktop workstations - 15 units,INR,900000,18,1062000,0,1062000,1,OPEN,IT,CC-IT-02,S. Kulkarni
+PO-2026-1010,V005,9/15/2026,11/15/2026,Networking switches and cabling,INR,250000,18,295000,0,295000,2,OPEN,IT,CC-IT-02,S. Kulkarni
+PO-2026-1011,V006,10/10/2026,10/31/2026,Catering - annual placement drive,INR,75000,5,78750,0,78750,5,OPEN,HR,CC-HR-04,M. Joshi
+PO-2026-1012,V007,9/25/2026,12/31/2026,Office supplies - bulk order,INR,40000,18,47200,0,47200,2,ON_HOLD,Admin,CC-ADM-01,R. Deshmukh
+PO-2026-1013,V008,3/10/2026,6/30/2026,Marketing brochures and banners,INR,55000,18,64900,64900,0,2,CLOSED,Marketing,CC-MKT-05,P. Naik
+PO-2026-1014,V009,7/1/2026,6/30/2027,Cloud hosting - annual subscription,USD,12000,0,12000,6000,6000,2,PARTIALLY_INVOICED,IT,CC-IT-02,S. Kulkarni
+PO-2026-1015,V010,9/12/2026,12/12/2026,Machine parts fabrication,INR,320000,18,377600,0,377600,2,OPEN,Operations,CC-OPS-03,A. Patil
+PO-2026-1016,V010,7/1/2026,1/5/2027,Preventive maintenance - plant equipment,INR,180000,18,212400,0,212400,2,OPEN,Operations,CC-OPS-03,A. Patil
+PO-2026-1017,V011,4/1/2026,3/31/2027,Security guard services - FY26-27,INR,720000,18,849600,424800,424800,1,PARTIALLY_INVOICED,Admin,CC-ADM-01,R. Deshmukh
+PO-2026-1018,V012,1/15/2026,6/30/2026,Notebooks and files,INR,18000,12,20160,20160,0,2,CLOSED,Admin,CC-ADM-01,R. Deshmukh
+PO-2026-1019,V001,10/12/2026,12/31/2026,Toner cartridges and paper reams,INR,35000,18,41300,0,41300,2,OPEN,Admin,CC-ADM-01,R. Deshmukh
+PO-2026-1020,V006,8/1/2026,8/31/2026,Catering - orientation week,INR,50000,5,52500,0,52500,5,EXPIRED,HR,CC-HR-04,M. Joshi

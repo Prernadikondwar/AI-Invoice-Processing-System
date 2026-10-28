@@ -1,0 +1,13 @@
+vendor_id,vendor_name,gstin,status,payment_terms_days,currency,contact_email,bank_account_last4,default_gst_rate_pct,invoice_prefix
+V001,Apex Office Supplies Pvt Ltd,27AABCA1234F1Z5,APPROVED,30,INR,billing@apexoffice.in,4821,18,APX/
+V002,Sunrise IT Solutions,27AAECS5678K1Z2,APPROVED,45,INR,accounts@sunriseit.com,7733,18,SIT-
+V003,Bharat Logistics Co,27AAACB9012L1Z8,APPROVED,15,INR,ar@bharatlogistics.in,1190,5,BL/
+V004,Metro Cleaning Services,27AAGCM3456N1Z4,APPROVED,30,INR,metro.clean@gmail.com,6045,18,MCS
+V005,TechNova Hardware LLP,27AAHFT7890P1Z6,APPROVED,60,INR,finance@technova.co.in,3382,18,TN-
+V006,Greenleaf Catering,27AAICG2345Q1Z9,APPROVED,15,INR,orders@greenleafcatering.in,9917,5,GC/
+V007,Apex Office Solutions,29AABCA9876F1Z1,PENDING_APPROVAL,30,INR,info@apexsolutions.in,5560,18,AOS-
+V008,QuickPrint Media,27AAJCQ6789R1Z3,BLOCKED,30,INR,hello@quickprint.in,2204,18,QP/
+V009,Global Cloud Services Inc,,APPROVED,30,USD,billing@globalcloud.com,8841,0,GCS-
+V010,Sahyadri Engineering Works,27AAKCS1122T1Z7,APPROVED,45,INR,accounts@sahyadrieng.in,3067,18,SEW/
+V011,Prime Security Services,27AALCP3344U1Z0,APPROVED,30,INR,prime.sec@outlook.com,7752,18,PSS-
+V012,Kolhapur Stationers,27AAMCK5566V1Z2,INACTIVE,30,INR,kstationers@gmail.com,1428,12,KS/
